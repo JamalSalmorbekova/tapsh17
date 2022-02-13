@@ -13,7 +13,7 @@ public class Main {
 
         //     Ар бир объект учун оз озунчо массив тузуп Animal массивиндеги жаныбарларды
         //      болуп оз озунун массивине салыныз
-        Animal[] reptile = {animals[3]};
+        Animal[] reptile = {animals[2]};
         Animal[] fish = {animals[1]};
         Animal[] bird = {animals[0]};
 
